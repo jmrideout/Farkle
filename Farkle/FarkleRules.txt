@@ -1,0 +1,44 @@
+=+=+=+= Farkle Rulebook =+=+=+=
+
+1. Objective
+	Score 10,000 points
+
+2. Points
+	1 = 100 points
+	5 = 50 points
+	Three 1's = 1000 points
+	Three of a kind, not 1's = 100 x (face value)
+	Points are accumulated in the turn's points during the turn.
+	If the turn is successful, the points are added to the player's total.
+	If the player rolls a Farkle, the turn's points are lost.
+
+3. Entering the game
+	The first player rolls all 6 dice.
+	They may set aside any dice worth points.
+	They must set aside at least 1 die per roll.
+	They must continue to roll the non-point dice until they reach 1,000 points.
+	Upon reaching 1,000 points, that player has officially entered the game.
+		They may stop rolling dice at any time to pass their turn to the next player.
+		The only exception to stopping a dice roll is when all 6 dice are points.
+	If there are no point dice in a roll, that is a Farkle.
+		The player loses their turn.
+		All of the points earned this turn are lost.
+	If all dice are point dice, the player must roll all 6 dice again.
+
+4. Normal turn
+	Roll all 6 dice.
+	The player may set aside any dice worth points.
+	At least 1 die must be set aside per roll.
+	The player may stop rolling at any time, with one exception.
+		This ends the player's turn.
+		Add the turn's score to the player's total score.
+	The exception is when all 6 dice are set aside for points.
+		Note the number of points, then roll all 6 dice again.
+	If none of the rolled dice are worth points, that is a Farkle.
+		The player loses the turn's points.
+		The player passes their turn to the next player.
+
+5. Winning the game
+	The end of the game is initiated if any player accumulates 10,000 points.
+	The other players all get one final turn to beat the winning score.
+	The player with the highest score after the final round is the winner.
